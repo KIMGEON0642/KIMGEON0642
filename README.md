@@ -1,5 +1,5 @@
-## Hi there 👋
-제하하하
+## Introduction
+안녕하세요. 영남대학교 컴퓨터학부 컴퓨터공학과 23학번 김건입니다.
 <!--
 **KIMGEON0642/KIMGEON0642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
