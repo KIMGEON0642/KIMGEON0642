@@ -4,6 +4,7 @@
 ## Projects
 - Algorithm Solutions
 - BOJ 문제풀이
+- Learing programming
 
 ## SKILLS
 - C++, Python
